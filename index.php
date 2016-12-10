@@ -15,15 +15,6 @@
   <nav class="blue lighten-1" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo white-text">کارواش من</a>
-      <ul class="left hide-on-med-and-down">
-        <li><a href="#" class="white-text">دکمه آزمایشی</a></li>
-      </ul>
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="#">دکمه آزمایشی</a></li>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse">
-        <img class="white lighten-2" src="./pic/ic_menu_black_48dp_1x.png"/>
-      </a>
     </div>
   </nav>
 
