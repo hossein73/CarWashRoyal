@@ -33,7 +33,7 @@
         <br><br>
         <div class="row"></div>
         <div class="row center">
-          <div class="col s8 offset-s2 card hoverable">
+          <div class="col s12 card hoverable">
             <h1 class="header center black-text text-lighten-2">خوش آمدید</h1>
             <div class="row center">
               <h4 class="header col s12 black-text text-lighten-2">نرم افزار اتوماسیون کارواش</h4>
