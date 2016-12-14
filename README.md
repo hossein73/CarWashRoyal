@@ -1,2 +1,2 @@
 # CarWashRoyal
-An Car washing system for manager car wash's. 
+An Car washing system for manage the car wash's. 
